@@ -25,6 +25,9 @@ This document will change formats but the goal will be the same, to keep track o
 | **CrackePop on FPGA** | Low Level | http://www.righto.com/2018/03/implementing-fizzbuzz-on-fpga.html | N/A | Not Started | Verilog
 | **aotd.io** | Algorithms | N/A | N/A | Not Started |
 | **notes** | Misc. | N/A | N/A | N/A |
+| **Make a LISP** | Low-Level | https://github.com/kanaka/mal | N/A | Not Started | N/A |
+| **Gameboy Emulator** | Low-Level, Games | https://cturt.github.io/cinoop.html | N/A | Not Started | N/A |
+
 
 ## Resources
 
