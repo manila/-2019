@@ -29,7 +29,13 @@ This document will change formats but the goal will be the same, to keep track o
 | **Gameboy Emulator** | Low-Level, Games | https://cturt.github.io/cinoop.html | N/A | Not Started | N/A |
 | **Malloc From Scratch** | Low-Level | https://www.destroyallsoftware.com/screencasts/catalog/malloc-from-scratch | N/A | Not Started | C
 
+## Weekly Logs
 
+### Week 0
+Coming Soon...
+
+### Week 1
+Coming Soon...
 
 ## Resources
 
