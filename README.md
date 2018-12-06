@@ -27,6 +27,8 @@ This document will change formats but the goal will be the same, to keep track o
 | **notes** | Misc. | N/A | N/A | N/A |
 | **Make a LISP** | Low-Level | https://github.com/kanaka/mal | N/A | Not Started | N/A |
 | **Gameboy Emulator** | Low-Level, Games | https://cturt.github.io/cinoop.html | N/A | Not Started | N/A |
+| **Malloc From Scratch** | Low-Level | https://www.destroyallsoftware.com/screencasts/catalog/malloc-from-scratch | N/A | Not Started | C
+
 
 
 ## Resources
