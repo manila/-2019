@@ -22,14 +22,14 @@ This document will change formats but the goal will be the same, to keep track o
 1. [Introduction](#Introduction)
 
 2. [Projects](#Projects)
-   - [Cryptopals](#Cryptopals)
-   - [Make a Lisp](#Make-a-LISP)
-   - [Malloc From Scratch](#Malloc-from-Scratch)
-   - [CracklePop on FPGA](#CracklePop-on-FPGA)
-3. Week by Week
-   - [Week 0](#Week-0)
-   - [Week 1](#Week-1)
-   - [Week 2](#Week-2)
+   * [Cryptopals](#Cryptopals)
+   * [Make a Lisp](#Make-a-LISP)
+   * [Malloc From Scratch](#Malloc-from-Scratch)
+   * [CracklePop on FPGA](#CracklePop-on-FPGA)
+3. [Week by Week](#Week-by-Week)
+   * [Week 0](#Week-0)
+   * [Week 1](#Week-1)
+   * [Week 2](#Week-2)
    
 ## Projects
 
