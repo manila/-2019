@@ -17,6 +17,10 @@ This is where I am keeping a living list of the things I’m learning, creating,
 
 This document will change formats but the goal will be the same, to keep track of the things that inspire me, the the projects I’m working on, and maybe even expose trends in my work.
 
+## Index
+
+[Cryptopals](#Cryptopals)
+
 ## Projects
 
 | Project Name | Description | Scope | Source | Repository | Progress | Lang. |
