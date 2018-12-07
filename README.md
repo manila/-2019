@@ -20,6 +20,7 @@ This document will change formats but the goal will be the same, to keep track o
 ## Index
 
 [Cryptopals](#Cryptopals)
+- [Projects](#Projects)
 
 ## Projects
 
