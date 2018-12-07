@@ -35,6 +35,8 @@ This document will change formats but the goal will be the same, to keep track o
 | **pass rotate** | Extension for Passowrd Store to automatically change passwords for supported sites | Unix | N/A | N/A | Not Started | Bash |
 | **
 
+### Cryptopals
+
 ## Weekly Logs
 
 ### Week 0
