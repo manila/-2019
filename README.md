@@ -26,7 +26,10 @@ This document will change formats but the goal will be the same, to keep track o
    * [Make a Lisp](#Make-a-LISP)
    * [Malloc From Scratch](#Malloc-from-Scratch)
    * [CracklePop on FPGA](#CracklePop-on-FPGA)
-3. [Week by Week](#Week-by-Week)
+   * [Malloc From Scratch](#Malloc-From-Scratch)
+   * [Make a LISP](#Make-a-LISP)
+3. [Blog Posts](#Blog-Posts)
+4. [Week by Week](#Week-by-Week)
    * [Week 0](#Week-0)
    * [Week 1](#Week-1)
    * [Week 2](#Week-2)
@@ -55,18 +58,24 @@ Cryptopals is a head first dive into cryptography, this "course" ramps up quickl
 |------------|-------|----------|--------|
 | [manila/gameboy](https://github.com/manila/gameboy) | Low-Level, Algorithms | C | https://cturt.github.io/cinoop.html |
 
+### Make-a-LISP
+
+| Repository | Scope | Language | Source |
+|------------|-------|----------|--------|
+| [manila/mal](https://github.com/manila/mal) | Low-Level | Undecided | https://github.com/kanaka/mal |
+
+### Malloc-From-Scratch
+
+| Repository | Scope | Language | Scope |
+|------------|-------|----------|-------|
+| [manila/my_malloc](https://github.com/manila/my_malloc) | | C | https://www.destroyallsoftware.com/screencasts/catalog/malloc-from-scratch |
+
 ### Other-Projects
 | Project Name | Description | Scope | Source | Repository | Progress | Lang. |
 |--------------|-------------|-------|--------|------------|----------|----------|
-| **Cryptopals** || Cryptography | https://cryptopals.com/ | [manila/cryptopals](https://github.com/manila/cryptopals) | Started | C
-| **CrackePop on FPGA** || Low Level | http://www.righto.com/2018/03/implementing-fizzbuzz-on-fpga.html | N/A | Not Started | Verilog
 | **aotd.io** || Algorithms | N/A | N/A | Not Started |
 | **notes** || Misc. | N/A | N/A | N/A |
-| **Make a LISP** || Low-Level | https://github.com/kanaka/mal | N/A | Not Started | N/A |
-| **Gameboy Emulator** || Low-Level, Games | https://cturt.github.io/cinoop.html | N/A | Not Started | N/A |
-| **Malloc From Scratch** | Learn some more about memory allocation by implementing my own version of Malloc | Low-Level | https://www.destroyallsoftware.com/screencasts/catalog/malloc-from-scratch | N/A | Not Started | C
 | **pass rotate** | Extension for Passowrd Store to automatically change passwords for supported sites | Unix | N/A | N/A | Not Started | Bash |
-| **
 
 ## Weekly Logs
 
