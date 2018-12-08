@@ -42,7 +42,7 @@ This document will change formats but the goal will be the same, to keep track o
 |------------|-------|----------|--------|
 | [manila/cracklepop/fpga](https://github.com/manila/cracklepop) | Low-Level, Algorithms | Verilog | http://www.righto.com/2018/03/implementing-fizzbuzz-on-fpga.html |
 
-### Chip-8-
+### Chip-8-Interpreter
 
 ### Cryptopals
 
