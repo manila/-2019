@@ -70,6 +70,12 @@ Cryptopals is a head first dive into cryptography, this "course" ramps up quickl
 |------------|-------|----------|-------|
 | [manila/my_malloc](https://github.com/manila/my_malloc) | | C | https://www.destroyallsoftware.com/screencasts/catalog/malloc-from-scratch |
 
+### pass-extension-rotate
+
+| Repository | Scope | Language | Scope |
+|------------|-------|----------|-------|
+| [manila/pass-extension-rotate](https://github.com/manila/pass-extension-rotate) | | Bash | N/A |
+
 ### Other-Projects
 | Project Name | Description | Scope | Source | Repository | Progress | Lang. |
 |--------------|-------------|-------|--------|------------|----------|----------|
