@@ -48,6 +48,8 @@ This document will change formats but the goal will be the same, to keep track o
 |------------|-------|----------|--------|
 | [manila/chip-8](https://github.com/manila/chip-8) | Emulation, Low-Level | C | https://en.wikipedia.org/wiki/CHIP-8
 
+I'm taking this on as a way to learn about emulation, though this is more appropriatley a introduction into programming an interpreter. 
+
 ### Cryptopals
 
 | Repository | Scope | Language | Source |
