@@ -22,12 +22,15 @@ This document will change formats but the goal will be the same, to keep track o
 1. [Introduction](#Introduction)
 
 2. [Projects](#Projects)
+   * [CracklePop on FPGA](#CracklePop-on-FPGA)
    * [Cryptopals](#Cryptopals)
+   * [Gameboy Emulator](#Gameboy-Emulator)
+   * [Game of Life](#Game-of-Life)
    * [Make a Lisp](#Make-a-LISP)
    * [Malloc From Scratch](#Malloc-from-Scratch)
-   * [CracklePop on FPGA](#CracklePop-on-FPGA)
    * [Malloc From Scratch](#Malloc-From-Scratch)
    * [Make a LISP](#Make-a-LISP)
+   * [Password Store Extension Rotate](#pass-extension-rotate)
 3. [Blog Posts](#Blog-Posts)
 4. [Week by Week](#Week-by-Week)
    * [Week 0](#Week-0)
@@ -64,6 +67,12 @@ Cryptopals is a head first dive into cryptography, this "course" ramps up quickl
 |------------|-------|----------|--------|
 | [manila/gameboy](https://github.com/manila/gameboy) | Low-Level, Algorithms | C | https://cturt.github.io/cinoop.html |
 
+### Game-of-Life
+
+| Repository | Scope | Language | Source |
+|------------|-------|----------|--------|
+| [manila/gol](https://github.com/manila/gol) | | C | https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life |
+
 ### Make-a-LISP
 
 | Repository | Scope | Language | Source |
@@ -87,7 +96,6 @@ Cryptopals is a head first dive into cryptography, this "course" ramps up quickl
 |--------------|-------------|-------|--------|------------|----------|----------|
 | **aotd.io** || Algorithms | N/A | N/A | Not Started |
 | **notes** || Misc. | N/A | N/A | N/A |
-| **pass rotate** | Extension for Passowrd Store to automatically change passwords for supported sites | Unix | N/A | N/A | Not Started | Bash |
 
 ## Weekly Logs
 
