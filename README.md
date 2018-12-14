@@ -39,6 +39,12 @@ This document will change formats but the goal will be the same, to keep track o
    
 ## Projects
 
+### ASCII-Confetti
+
+| Repository | Scope | Language | Source |
+|------------|-------|----------|--------|
+| [manila/ascii-confetti.js](https://github.com/manila/ascii-confetti.js) | Art | JavaScript ||
+
 ### CracklePop-on-FPGA
 
 | Repository | Scope | Language | Source |
