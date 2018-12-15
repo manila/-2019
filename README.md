@@ -22,6 +22,7 @@ This document will change formats but the goal will be the same, to keep track o
 1. [Introduction](#Introduction)
 
 2. [Projects](#Projects)
+   * [ASCII Confetti](#ASCII-Confetti)
    * [CracklePop on FPGA](#CracklePop-on-FPGA)
    * [Cryptopals](#Cryptopals)
    * [Gameboy Emulator](#Gameboy-Emulator)
