@@ -45,7 +45,13 @@ This document will change formats but the goal will be the same, to keep track o
 | Repository | Scope | Language | Source | Status |
 |------------|-------|----------|--------|--------|
 | [manila/ascii-confetti.js](https://github.com/manila/ascii-confetti.js) | Art | JavaScript || Not Started |
- 
+
+### Breakout
+
+| Repository | Scope | Language | Source | Status |
+|------------|-------|----------|--------|--------|
+| [manila/breakout](https://github.com/manila/breakout) | Games | C || Not Started |
+
 ### CracklePop-on-FPGA
 
 | Repository | Scope | Language | Source | Status |
@@ -78,7 +84,7 @@ Cryptopals is a head first dive into cryptography, this "course" ramps up quickl
 
 | Repository | Scope | Language | Source |
 |------------|-------|----------|--------|
-| [manila/gol](https://github.com/manila/gol) | | C | https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life |
+| [manila/gol](https://github.com/manila/gol) | Games | C | https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life |
 
 ### Make-a-LISP
 
@@ -88,15 +94,21 @@ Cryptopals is a head first dive into cryptography, this "course" ramps up quickl
 
 ### Malloc-From-Scratch
 
-| Repository | Scope | Language | Scope |
+| Repository | Scope | Language | Source |
 |------------|-------|----------|-------|
 | [manila/my_malloc](https://github.com/manila/my_malloc) | | C | https://www.destroyallsoftware.com/screencasts/catalog/malloc-from-scratch |
 
 ### pass-extension-rotate
 
-| Repository | Scope | Language | Scope |
+| Repository | Scope | Language | Source |
 |------------|-------|----------|-------|
 | [manila/pass-extension-rotate](https://github.com/manila/pass-extension-rotate) | | Bash | N/A |
+
+### Pong
+
+| Repository | Scope | Language | Source |
+|------------|-------|----------|--------|
+| [manila/pong](https://github.com/manila/pong) | Games | C ||
 
 ### Other-Projects
 | Project Name | Description | Scope | Source | Repository | Progress | Lang. |
