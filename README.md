@@ -42,21 +42,21 @@ This document will change formats but the goal will be the same, to keep track o
 
 ### ASCII-Confetti
 
-| Repository | Scope | Language | Source |
-|------------|-------|----------|--------|
-| [manila/ascii-confetti.js](https://github.com/manila/ascii-confetti.js) | Art | JavaScript ||
-
+| Repository | Scope | Language | Source | Status |
+|------------|-------|----------|--------|--------|
+| [manila/ascii-confetti.js](https://github.com/manila/ascii-confetti.js) | Art | JavaScript || Not Started |
+ 
 ### CracklePop-on-FPGA
 
-| Repository | Scope | Language | Source |
-|------------|-------|----------|--------|
-| [manila/cracklepop/fpga](https://github.com/manila/cracklepop) | Low-Level, Algorithms | Verilog | http://www.righto.com/2018/03/implementing-fizzbuzz-on-fpga.html |
+| Repository | Scope | Language | Source | Status |
+|------------|-------|----------|--------|--------|
+| [manila/cracklepop/fpga](https://github.com/manila/cracklepop) | Low-Level, Algorithms | Verilog | http://www.righto.com/2018/03/implementing-fizzbuzz-on-fpga.html | Not Started |
 
 ### Chip-8-Interpreter
 
-| Repository | Scope | Language | Source |
-|------------|-------|----------|--------|
-| [manila/chip-8](https://github.com/manila/chip-8) | Emulation, Low-Level | C | https://en.wikipedia.org/wiki/CHIP-8
+| Repository | Scope | Language | Source | Status |
+|------------|-------|----------|--------|--------|
+| [manila/chip-8](https://github.com/manila/chip-8) | Emulation, Low-Level | C | https://en.wikipedia.org/wiki/CHIP-8 | Not Started |
 
 I'm taking this on as a way to learn about emulation, though this is more appropriatley a introduction into programming an interpreter. 
 
