@@ -32,6 +32,7 @@ This document will change formats but the goal will be the same, to keep track o
    * [Malloc From Scratch](#Malloc-From-Scratch)
    * [Make a LISP](#Make-a-LISP)
    * [Password Store Extension Rotate](#pass-extension-rotate)
+   * [Snake II Game](#Snake-II-Game)
 3. [Blog Posts](#Blog-Posts)
 4. [Week by Week](#Week-by-Week)
    * [Week 0](#Week-0)
@@ -109,6 +110,12 @@ Cryptopals is a head first dive into cryptography, this "course" ramps up quickl
 | Repository | Scope | Language | Source |
 |------------|-------|----------|--------|
 | [manila/pong](https://github.com/manila/pong) | Games | C ||
+
+### Snake-II-Game
+
+| Repository | Scope | Language | Source |
+|------------|-------|----------|--------|
+| [manila/snake](https://github.com/manila/snake) | Games | JavaScript, HTML, CSS ||
 
 ### Other-Projects
 | Project Name | Description | Scope | Source | Repository | Progress | Lang. |
