@@ -34,7 +34,8 @@ This document will change formats but the goal will be the same, to keep track o
    * [Password Store Extension Rotate](#pass-extension-rotate)
    * [Snake II Game](#Snake-II-Game)
 3. [Blog Posts](#Blog-Posts)
-4. [Week by Week](#Week-by-Week)
+4. [Books I've Read](#Books-Read)
+5. [Week by Week](#Week-by-Week)
    * [Week 0](#Week-0)
    * [Week 1](#Week-1)
    * [Week 2](#Week-2)
@@ -124,6 +125,8 @@ Cryptopals is a head first dive into cryptography, this "course" ramps up quickl
 | **notes** || Misc. | N/A | N/A | N/A |
 
 ## Blog Posts
+
+## Books-Read
 
 ## Weekly Logs
 
