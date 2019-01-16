@@ -125,16 +125,26 @@ Cryptopals is a head first dive into cryptography, this "course" ramps up quickl
 | **notes** || Misc. | N/A | N/A | N/A |
 
 ## Blog Posts
+HTML5 Game Optimizations
 
 ## Books-Read
+Pilgrim in the Micro-World
 
 ## Weekly Logs
 
 ### Week 0
-Coming Soon...
+Started Snake.js
 
 ### Week 1
-Coming Soon...
+Worked on Snake.js
+
+### Week 2
+Finished Snake.js
+Read Pilgrim in the Micro-World
+Posted HTML5 Game Optimizations
+
+### Week 3
+Began studying for Amature Radio Technician License
 
 ## Resources
 
