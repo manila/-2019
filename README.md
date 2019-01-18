@@ -146,11 +146,11 @@ Posted HTML5 Game Optimizations
 ### Week 3
 Began studying for Amature Radio Technician License
 
-## Resources
+## Learning Resources
 
-Coming Soon...
+http://raspberrycompote.blogspot.com/2012/12/low-level-graphics-on-raspberry-pi-part_9509.html
 
-## Inspirations
+## Inspiration
 
 Coming Soon...
 ```
