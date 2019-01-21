@@ -145,6 +145,7 @@ Posted HTML5 Game Optimizations
 
 ### Week 3
 Began studying for Amature Radio Technician License
+Learn how to manipulate framebuffer with C on Raspberry Pi
 
 ## Learning Resources
 
