@@ -39,6 +39,7 @@ This document will change formats but the goal will be the same, to keep track o
    * [Week 0](#Week-0)
    * [Week 1](#Week-1)
    * [Week 2](#Week-2)
+   * [Week 3](#Week-3)
    
 ## Projects
 
@@ -132,18 +133,18 @@ Pilgrim in the Micro-World
 
 ## Weekly Logs
 
-### Week 0
+### Week-0
 Started Snake.js
 
-### Week 1
+### Week-1
 Worked on Snake.js
 
-### Week 2
+### Week-2
 Finished Snake.js
 Read Pilgrim in the Micro-World
 Posted HTML5 Game Optimizations
 
-### Week 3
+### Week-3
 - Began studying for Amature Radio Technician License
 - Learn how to manipulate framebuffer with C on Raspberry Pi
 
