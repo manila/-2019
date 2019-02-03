@@ -40,6 +40,7 @@ This document will change formats but the goal will be the same, to keep track o
    * [Week 1](#Week-1)
    * [Week 2](#Week-2)
    * [Week 3](#Week-3)
+   * [Week 4](#Week-4)
    
 ## Projects
 
@@ -140,13 +141,18 @@ Started Snake.js
 Worked on Snake.js
 
 ### Week-2
-Finished Snake.js
-Read Pilgrim in the Micro-World
-Posted HTML5 Game Optimizations
+- Finished Snake.js
+- Read Pilgrim in the Micro-World
+- Posted HTML5 Game Optimizations
 
 ### Week-3
 - Began studying for Amature Radio Technician License
 - Learn how to manipulate framebuffer with C on Raspberry Pi
+
+### Week-4
+- Continued studying for Amature Radio License
+- Worked on makeitrain.js
+- Worked on Snake.js
 
 ## Learning Resources
 
