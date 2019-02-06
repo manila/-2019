@@ -41,6 +41,7 @@ This document will change formats but the goal will be the same, to keep track o
    * [Week 2](#Week-2)
    * [Week 3](#Week-3)
    * [Week 4](#Week-4)
+   * [Week 5](#Week-5)
    
 ## Projects
 
@@ -153,6 +154,8 @@ Worked on Snake.js
 - Continued studying for Amature Radio License
 - Worked on makeitrain.js
 - Worked on Snake.js
+
+### Week-5
 
 ## Learning Resources
 
