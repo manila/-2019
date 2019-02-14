@@ -42,6 +42,7 @@ This document will change formats but the goal will be the same, to keep track o
    * [Week 3](#Week-3)
    * [Week 4](#Week-4)
    * [Week 5](#Week-5)
+   * [Week 6](#Week-6)
    
 ## Projects
 
@@ -158,6 +159,10 @@ Worked on Snake.js
 ### Week-5
 
 - Ham Radio Class
+
+### Week-6
+
+- Passed Radio Exam
 
 ## Learning Resources
 
