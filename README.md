@@ -135,6 +135,7 @@ HTML5 Game Optimizations
 ## Books-Read
 Pilgrim in the Micro-World
 The Red Web (In Progress)
+Spotify Teardown (In Progress)
 
 ## Weekly Logs
 
