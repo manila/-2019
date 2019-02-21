@@ -57,7 +57,7 @@ This document will change formats but the goal will be the same, to keep track o
 
 | Repository | Scope | Language | Source | Status |
 |------------|-------|----------|--------|--------|
-| [manila/breakout](https://github.com/manila/breakout) | Games | C || Not Started |
+| [manila/breakout](https://github.com/manila/breakout) | Games | C || Started |
 
 ### CracklePop-on-FPGA
 
