@@ -169,6 +169,8 @@ Worked on Snake.js
 
 ### Week-7
 
+- Received Amateur Radio License (KJ7AEO)
+
 ## Learning Resources
 
 - http://raspberrycompote.blogspot.com/2012/12/low-level-graphics-on-raspberry-pi-part_9509.html
