@@ -169,7 +169,7 @@ Worked on Snake.js
 
 ### Week-7
 
-- Received Amateur Radio License (KJ7AEO)
+- Received Amateur Radio License (KJ7EAO)
 
 ## Learning Resources
 
