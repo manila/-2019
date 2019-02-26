@@ -44,6 +44,7 @@ This document will change formats but the goal will be the same, to keep track o
    * [Week 5](#Week-5)
    * [Week 6](#Week-6)
    * [Week 7](#Week-7)
+   * [Week 8](#Week-8)
    
 ## Projects
 
@@ -170,6 +171,8 @@ Worked on Snake.js
 ### Week-7
 
 - Received Amateur Radio License (KJ7EAO)
+
+### Week-8
 
 ## Learning Resources
 
