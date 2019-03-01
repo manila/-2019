@@ -129,7 +129,7 @@ Cryptopals is a head first dive into cryptography, this "course" ramps up quickl
 |--------------|-------------|-------|--------|------------|----------|----------|
 | **aotd.io** || Algorithms | N/A | N/A | Not Started |
 | **notes** || Misc. | N/A | N/A | N/A |
-| **tasks** || Web |||||||
+| **tasks** || Web ||||| Not Started ||
 
 ## Blog Posts
 HTML5 Game Optimizations
