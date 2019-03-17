@@ -33,6 +33,7 @@ This document will change formats but the goal will be the same, to keep track o
    * [Make a LISP](#Make-a-LISP)
    * [Password Store Extension Rotate](#pass-extension-rotate)
    * [Snake II Game](#Snake-II-Game)
+   * [Exploit Education Solutions](#Exploit-Education-Exercises)
 3. [Blog Posts](#Blog-Posts)
 4. [Books I've Read](#Books-Read)
 5. [Week by Week](#Week-by-Week)
@@ -47,6 +48,7 @@ This document will change formats but the goal will be the same, to keep track o
    * [Week 8](#Week-8)
    * [Week 9](#Week-9)
    * [Week-10](#Week-10)
+   * [Weel-11](#Week-11)
    
 ## Projects
 
@@ -182,6 +184,8 @@ Worked on Snake.js
 ### Week-10
 
 - RSA Conference 2019
+
+### Week-11
 
 ## Learning Resources
 
