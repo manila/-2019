@@ -143,6 +143,11 @@ Pilgrim in the Micro-World
 The Red Web (In Progress)
 Spotify Teardown (In Progress)
 
+## Books-I-Want-To-Read
+
+Little Brother by Cory Docorow
+Golden State by Ben Winters
+
 ## Weekly Logs
 
 ### Week-0
@@ -178,6 +183,8 @@ Worked on Snake.js
 - Received Amateur Radio License (KJ7EAO)
 
 ### Week-8
+
+- 
 
 ### Week-9
 
