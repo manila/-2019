@@ -36,7 +36,8 @@ This document will change formats but the goal will be the same, to keep track o
    * [Exploit Education Solutions](#Exploit-Education-Exercises)
 3. [Blog Posts](#Blog-Posts)
 4. [Books I've Read](#Books-Read)
-5. [Week by Week](#Week-by-Week)
+5. [Books I Want to Read](#Books-I-Want-to-Read)
+6. [Week by Week](#Week-by-Week)
    * [Week 0](#Week-0)
    * [Week 1](#Week-1)
    * [Week 2](#Week-2)
@@ -143,7 +144,7 @@ Pilgrim in the Micro-World
 The Red Web (In Progress)
 Spotify Teardown (In Progress)
 
-## Books-I-Want-To-Read
+## Books-I-Want-to-Read
 
 Little Brother by Cory Docorow
 Golden State by Ben Winters
