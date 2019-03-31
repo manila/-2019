@@ -129,11 +129,17 @@ Cryptopals is a head first dive into cryptography, this "course" ramps up quickl
 |------------|-------|----------|--------|
 | [manila/snake](https://github.com/manila/snake) | Games | JavaScript, HTML, CSS ||
 
+### note-store
+
+| Repository | Scope | Language | Source |
+|------------|-------|----------|--------|
+| [manila/note-store](https://github.com/manila/note-store) | Utilities | Bash ||
+
+
 ### Other-Projects
 | Project Name | Description | Scope | Source | Repository | Progress | Lang. |
 |--------------|-------------|-------|--------|------------|----------|----------|
 | **aotd.io** || Algorithms | N/A | N/A | Not Started |
-| **notes** || Misc. | N/A | N/A | N/A |
 | **tasks** || Web ||| Not Started ||
 
 ## Blog Posts
