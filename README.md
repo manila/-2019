@@ -201,6 +201,12 @@ Worked on Snake.js
 
 ### Week-11
 
+### Week-12
+
+### Week-13
+
+- Google Maps's Snake Hacks
+
 ## Learning Resources
 
 - http://raspberrycompote.blogspot.com/2012/12/low-level-graphics-on-raspberry-pi-part_9509.html
