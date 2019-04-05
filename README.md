@@ -48,8 +48,8 @@ This document will change formats but the goal will be the same, to keep track o
    * [Week 7](#Week-7)
    * [Week 8](#Week-8)
    * [Week 9](#Week-9)
-   * [Week-10](#Week-10)
-   * [Weel-11](#Week-11)
+   * [Week 10](#Week-10)
+   * [Weel 11](#Week-11)
    
 ## Projects
 
