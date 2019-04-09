@@ -143,7 +143,7 @@ Cryptopals is a head first dive into cryptography, this "course" ramps up quickl
 | **tasks** || Web ||| Not Started ||
 
 ## Blog Posts
-HTML5 Game Optimizations
+Snake Hacks - Reversing Google's Snake Game
 
 ## Books-Read
 Pilgrim in the Micro-World
