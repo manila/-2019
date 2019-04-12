@@ -65,7 +65,7 @@ This document will change formats but the goal will be the same, to keep track o
 |------------|-------|----------|--------|--------|
 | [manila/breakout](https://github.com/manila/breakout) | Games | C || Started |
 
-### CracklePop-on-FPGA
+### FizzBuzz-on-FPGA
 
 | Repository | Scope | Language | Source | Status |
 |------------|-------|----------|--------|--------|
