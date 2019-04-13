@@ -214,9 +214,6 @@ Worked on Snake.js
 - http://gameprogrammingpatterns.com/game-loop.html
 - [Python for Reverse Engineering 1: ELF Binaries](https://icyphox.sh/blog/python-for-re-1/)
 
-## Inspiration
-
-Coming Soon...
 ```
  ___               ____________                  ________---,
 |   ------____-----            --------____------           |
