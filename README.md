@@ -37,20 +37,7 @@ This document will change formats but the goal will be the same, to keep track o
 3. [Blog Posts](#Blog-Posts)
 4. [Books I've Read](#Books-Read)
 5. [Books I Want to Read](#Books-I-Want-to-Read)
-6. [Week by Week](#Week-by-Week)
-   * [Week 0](#Week-0)
-   * [Week 1](#Week-1)
-   * [Week 2](#Week-2)
-   * [Week 3](#Week-3)
-   * [Week 4](#Week-4)
-   * [Week 5](#Week-5)
-   * [Week 6](#Week-6)
-   * [Week 7](#Week-7)
-   * [Week 8](#Week-8)
-   * [Week 9](#Week-9)
-   * [Week 10](#Week-10)
-   * [Weel 11](#Week-11)
-   
+
 ## Projects
 
 ### ASCII-Confetti
@@ -154,58 +141,6 @@ Spotify Teardown (In Progress)
 
 Little Brother by Cory Docorow
 Golden State by Ben Winters
-
-## Weekly Logs
-
-### Week-0
-Started Snake.js
-
-### Week-1
-Worked on Snake.js
-
-### Week-2
-- Finished Snake.js
-- Read Pilgrim in the Micro-World
-- Posted HTML5 Game Optimizations
-
-### Week-3
-- Began studying for Amature Radio Technician License
-- Learn how to manipulate framebuffer with C on Raspberry Pi
-
-### Week-4
-- Continued studying for Amature Radio License
-- Worked on makeitrain.js
-- Worked on Snake.js
-
-### Week-5
-
-- Ham Radio Class
-
-### Week-6
-
-- Passed Radio Exam
-
-### Week-7
-
-- Received Amateur Radio License (KJ7EAO)
-
-### Week-8
-
-- 
-
-### Week-9
-
-### Week-10
-
-- RSA Conference 2019
-
-### Week-11
-
-### Week-12
-
-### Week-13
-
-- Google Maps's Snake Hacks
 
 ## Learning Resources
 
