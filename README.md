@@ -52,6 +52,13 @@ This document will change formats but the goal will be the same, to keep track o
 |------------|-------|----------|--------|--------|
 | [manila/breakout](https://github.com/manila/breakout) | Games | C || Started |
 
+### Exploit.Education
+
+| Repository | Scope | Language | Source | Status |
+|------------|-------|----------|--------|--------|
+| [manila/exploit-education](https://github.com/manila/exploit-education) | Hacking | Python, Opcodes || Started |
+
+
 ### FizzBuzz-on-FPGA
 
 | Repository | Scope | Language | Source | Status |
@@ -122,20 +129,13 @@ Cryptopals is a head first dive into cryptography, this "course" ramps up quickl
 |------------|-------|----------|--------|
 | [manila/note-store](https://github.com/manila/note-store) | Utilities | Bash ||
 
-
-### Other-Projects
-| Project Name | Description | Scope | Source | Repository | Progress | Lang. |
-|--------------|-------------|-------|--------|------------|----------|----------|
-| **aotd.io** || Algorithms | N/A | N/A | Not Started |
-| **tasks** || Web ||| Not Started ||
-
 ## Blog Posts
 Snake Hacks - Reversing Google's Snake Game
 
 ## Books-Read
 Pilgrim in the Micro-World
-The Red Web (In Progress)
-Spotify Teardown (In Progress)
+The Red Web
+Spotify Teardown
 
 ## Books-I-Want-to-Read
 
