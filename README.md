@@ -13,10 +13,6 @@
 
                  ≃≈≃ YEAR OF THE PIG ≈≃≈
 ```
-This is where I am keeping a living list of the things I’m learning, creating, and working on in 2019.
-
-This document will change formats but the goal will be the same, to keep track of the things that inspire me, the the projects I’m working on, and expose trends in my work.
-
 ## Index
 
 1. [Introduction](#Introduction)
@@ -33,10 +29,16 @@ This document will change formats but the goal will be the same, to keep track o
    * [Make a LISP](#Make-a-LISP)
    * [Password Store Extension Rotate](#pass-extension-rotate)
    * [Snake II Game](#Snake-II-Game)
-   * [Exploit Education Solutions](#Exploit-Education-Exercises)
+   * [Exploit Education Solutions](#Exploit.Exercises)
 3. [Blog Posts](#Blog-Posts)
 4. [Books I've Read](#Books-Read)
 5. [Books I Want to Read](#Books-I-Want-to-Read)
+
+## Introduction 
+
+This is where I am keeping a living list of the things I’m learning, creating, and working on in 2019.
+
+This document will change formats but the goal will be the same, to keep track of the things that inspire me, the the projects I’m working on, and expose trends in my work.
 
 ## Projects
 
@@ -129,7 +131,7 @@ Cryptopals is a head first dive into cryptography, this "course" ramps up quickl
 |------------|-------|----------|--------|
 | [manila/note-store](https://github.com/manila/note-store) | Utilities | Bash ||
 
-## Blog Posts
+## Blog-Posts
 Snake Hacks - Reversing Google's Snake Game
 
 ## Books-Read
