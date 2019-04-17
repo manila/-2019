@@ -21,6 +21,8 @@
    * [ASCII Confetti](#ASCII-Confetti)
    * [CracklePop on FPGA](#CracklePop-on-FPGA)
    * [Cryptopals](#Cryptopals)
+   * [Decrypt.cool](#Decrypt.cool)
+   * [Exploit Education Solutions](#Exploit.Exercises)
    * [Gameboy Emulator](#Gameboy-Emulator)
    * [Game of Life](#Game-of-Life)
    * [Make a Lisp](#Make-a-LISP)
@@ -29,7 +31,6 @@
    * [Make a LISP](#Make-a-LISP)
    * [Password Store Extension Rotate](#pass-extension-rotate)
    * [Snake II Game](#Snake-II-Game)
-   * [Exploit Education Solutions](#Exploit.Exercises)
 3. [Blog Posts](#Blog-Posts)
 4. [Books I've Read](#Books-Read)
 5. [Books I Want to Read](#Books-I-Want-to-Read)
@@ -53,6 +54,15 @@ This document will change formats but the goal will be the same, to keep track o
 | Repository | Scope | Language | Status |
 |------------|-------|----------|--------|
 | [manila/breakout](https://github.com/manila/breakout) | Games | C | Started |
+
+### Decrypt.cool
+
+Think movie hacking scenes.
+
+| Repository | Scope | Language | Status |
+|------------|-------|----------|--------|
+| [manila/decrypt.cool](https://github.com/manila/decypt.cool) | Encryption | JavaScript, HTML, CSS | Started |
+
 
 ### Exploit.Education
 
