@@ -48,9 +48,9 @@ This document will change formats but the goal will be the same, to keep track o
 
 ### Breakout
 
-| Repository | Scope | Language | Source | Status |
-|------------|-------|----------|--------|--------|
-| [manila/breakout](https://github.com/manila/breakout) | Games | C || Started |
+| Repository | Scope | Language | Status |
+|------------|-------|----------|--------|
+| [manila/breakout](https://github.com/manila/breakout) | Games | C | Started |
 
 ### Exploit.Education
 
