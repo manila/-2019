@@ -21,8 +21,8 @@
    * [ASCII Confetti](#ASCII-Confetti)
    * [CracklePop on FPGA](#CracklePop-on-FPGA)
    * [Cryptopals](#Cryptopals)
-   * [Decrypt.cool](#Decrypt.cool)
-   * [Exploit Education Solutions](#Exploit.Exercises)
+   * [Decrypt.cool](#Decrypt-cool)
+   * [Exploit Education Solutions](#Exploit-Exercises)
    * [Gameboy Emulator](#Gameboy-Emulator)
    * [Game of Life](#Game-of-Life)
    * [Make a Lisp](#Make-a-LISP)
@@ -55,7 +55,7 @@ This document will change formats but the goal will be the same, to keep track o
 |------------|-------|----------|--------|
 | [manila/breakout](https://github.com/manila/breakout) | Games | C | Started |
 
-### Decrypt.cool
+### Decrypt-Cool
 
 Think movie hacking scenes.
 
@@ -64,7 +64,7 @@ Think movie hacking scenes.
 | [manila/decrypt.cool](https://github.com/manila/decypt.cool) | Encryption | JavaScript, HTML, CSS | Started |
 
 
-### Exploit.Education
+### Exploit-Education
 
 | Repository | Scope | Language | Source | Status |
 |------------|-------|----------|--------|--------|
