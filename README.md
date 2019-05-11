@@ -144,6 +144,11 @@ Cryptopals is a head first dive into cryptography, this "course" ramps up quickl
 
 ### Space-Invaders
 
+| Repository | Scope | Language | Source |
+|------------|-------|----------|--------|
+| [manila/invaders](https://github.com/manila/invaders) | Games | JavaScript ||
+
+
 ## Blog-Posts
 Snake Hacks - Reversing Google's Snake Game
 
