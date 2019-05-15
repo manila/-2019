@@ -150,7 +150,7 @@ Cryptopals is a head first dive into cryptography, this "course" ramps up quickl
 
 
 ## Blog-Posts
-Snake Hacks - Reversing Google's Snake Game
+Snake Hacks - Reversing Google's Snake Game (planned)
 
 ## Books-Read
 Pilgrim in the Micro-World
