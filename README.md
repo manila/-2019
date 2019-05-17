@@ -159,7 +159,6 @@ The Red Web
 Spotify Teardown
 
 ## Books-I-Want-to-Read
-
 Little Brother by Cory Docorow
 Golden State by Ben Winters
 
