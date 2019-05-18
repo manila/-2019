@@ -150,6 +150,11 @@ Cryptopals is a head first dive into cryptography, this "course" ramps up quickl
 
 ### Galaxian
 
+| Repository | Scope | Language | Source |
+|------------|-------|----------|--------|
+| [manila/galaxian](https://github.com/manila/galaxian) | Games | JavaScript ||
+
+
 ## Blog-Posts
 Snake Hacks - Reversing Google's Snake Game (planned)
 
