@@ -32,6 +32,7 @@
    * [Password Store Extension Rotate](#pass-extension-rotate)
    * [Snake II Game](#Snake-II-Game)
    * [Space-Invaders](#Space-Invaders)
+   * [Galaxian](#Galaxian)
 3. [Blog Posts](#Blog-Posts)
 4. [Books I've Read](#Books-Read)
 5. [Books I Want to Read](#Books-I-Want-to-Read)
