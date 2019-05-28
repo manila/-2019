@@ -57,6 +57,12 @@ This document will change formats but the goal will be the same, to keep track o
 |------------|-------|----------|--------|
 | [manila/breakout](https://github.com/manila/breakout) | Games | C | Started |
 
+### Chip-8-Interpreter
+
+| Repository | Scope | Language | Source | Status |
+|------------|-------|----------|--------|--------|
+| [manila/chip-8](https://github.com/manila/chip-8) | Emulation, Low-Level | C | https://en.wikipedia.org/wiki/CHIP-8 | Not Started |
+
 ### Decrypt-Cool
 
 Think movie hacking scenes.
@@ -79,11 +85,6 @@ Think movie hacking scenes.
 |------------|-------|----------|--------|--------|
 | [manila/cracklepop/fpga](https://github.com/manila/cracklepop) | Low-Level, Algorithms | Verilog | http://www.righto.com/2018/03/implementing-fizzbuzz-on-fpga.html | Not Started |
 
-### Chip-8-Interpreter
-
-| Repository | Scope | Language | Source | Status |
-|------------|-------|----------|--------|--------|
-| [manila/chip-8](https://github.com/manila/chip-8) | Emulation, Low-Level | C | https://en.wikipedia.org/wiki/CHIP-8 | Not Started |
 
 I'm taking this on as a way to learn about emulation, though this is more appropriatley a introduction into programming an interpreter. 
 
