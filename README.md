@@ -63,6 +63,14 @@ This document will change formats but the goal will be the same, to keep track o
 |------------|-------|----------|--------|--------|
 | [manila/chip-8](https://github.com/manila/chip-8) | Emulation, Low-Level | C | https://en.wikipedia.org/wiki/CHIP-8 | Not Started |
 
+### Cryptopals
+
+| Repository | Scope | Language | Source |
+|------------|-------|----------|--------|
+| [manila/cryptopals](https://github.com/manila/cryptopals) | Cryptography, Algorithms | C | https://cryptopals.com |
+
+Cryptopals is a head first dive into cryptography, this "course" ramps up quickly and I found myself really struggling as each set progressed.  This is HARD but very fun, definitly a great primer into practical cryptography.
+
 ### Decrypt-Cool
 
 Think movie hacking scenes.
@@ -87,14 +95,6 @@ Think movie hacking scenes.
 
 
 I'm taking this on as a way to learn about emulation, though this is more appropriatley a introduction into programming an interpreter. 
-
-### Cryptopals
-
-| Repository | Scope | Language | Source |
-|------------|-------|----------|--------|
-| [manila/cryptopals](https://github.com/manila/cryptopals) | Cryptography, Algorithms | C | https://cryptopals.com |
-
-Cryptopals is a head first dive into cryptography, this "course" ramps up quickly and I found myself really struggling as each set progressed.  This is HARD but very fun, definitly a great primer into practical cryptography.
 
 ### Gameboy-Emulator
 
